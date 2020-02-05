@@ -147,7 +147,7 @@ header p {
 .method-image,
 .clients-image,
 .contact-image {
-    grid-column: 1/-;
+    grid-column: 1/-1;
     max-height: 700px;
     overflow: hidden;
     /*Your code here */
